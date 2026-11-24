@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ar.ptofocal.avisto",
+      "sha256_cert_fingerprints": [
+        "6A:8E:88:65:47:CE:E1:7E:31:09:B3:F9:1C:E0:03:9B:6D:4F:3A:D5:F4:34:29:23:10:4C:6C:F2:F3:54:34:5E"
+      ]
+    }
+  }
+]
