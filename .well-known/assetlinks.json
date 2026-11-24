@@ -1,11 +1,25 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "ar.ptofocal.avisto",
       "sha256_cert_fingerprints": [
         "6A:8E:88:65:47:CE:E1:7E:31:09:B3:F9:1C:E0:03:9B:6D:4F:3A:D5:F4:34:29:23:10:4C:6C:F2:F3:54:34:5E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ar.ptofocal.refto",
+      "sha256_cert_fingerprints": [
+        "4D:BC:A1:6B:46:E8:DA:7B:33:09:AC:AA:E9:1B:C0:D5:AD:4C:5C:47:C5:A6:1A:3A:46:1B:71:0A:66:BF:2D:58"
       ]
     }
   }
